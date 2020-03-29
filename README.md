@@ -1,5 +1,5 @@
 # api-development-go
-Documentation, Tools, Framework/KIt/Libs for APIs development in go
+Documentation, Tools, Framework/KIt/Libs for APIs development in go.
 
 
 ## APIs Design Guides :
@@ -10,11 +10,11 @@ Documentation, Tools, Framework/KIt/Libs for APIs development in go
 
 * [Microsoft API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md) :  API Guidelines.
 
-* [Paypal API Style Guide](https://github.com/paypal/api-standards/blob/master/api-style-guide.md) : API Design Guidelines
+* [Paypal API Style Guide](https://github.com/paypal/api-standards/blob/master/api-style-guide.md) : API Design Guidelines.
 
-* [API Security Checlist](https://github.com/shieldfy/API-Security-Checklist) : Checklist of the most important security countermeasures when designing, testing, and releasing your API.
+* [API Security Checlist](https://github.com/shieldfy/API-Security-Checklist) : Checklist of the most important security countermeasures.
 
-* [APIsecurity](https://apisecurity.io/) : API Security Articles, News, Vulnerabilities & Best Practices
+* [APIsecurity](https://apisecurity.io/) : API Security Articles, News, Vulnerabilities & Best Practices.
 
 * [API Evangelist](http://apievangelist.com/) : API Evangelist is a site dedicated to the technology, business, and politics of APIs.
 
@@ -27,19 +27,19 @@ Documentation, Tools, Framework/KIt/Libs for APIs development in go
 
 ### GraphQL
 
-* [GraphQL](https://graphql.org/) : A query language for your API
+* [GraphQL](https://graphql.org/) : A query language for your API.
 
 ### Grpc
 
-* [gRPC](https://grpc.io/) : A high-performance, open source universal RPC framework
+* [gRPC](https://grpc.io/) : A high-performance, open source universal RPC framework.
 
-* [Protocol Buffers](https://github.com/protocolbuffers/protobuf) : Protocol Buffers - Google's data interchange format
+* [Protocol Buffers](https://github.com/protocolbuffers/protobuf) : Protocol Buffers - Google's data interchange format.
 
 ## Tools API :
 
-* [Postman](https://www.postman.com/) : Best Tool to test APIs (REST + GRAPHQL)
+* [Postman](https://www.postman.com/) : Best Tool to test APIs (REST + GRAPHQL).
 
-* [Postwoman](https://github.com/liyasthomas/postwoman) : A free, fast and beautiful API request builder
+* [Postwoman](https://github.com/liyasthomas/postwoman) : A free, fast and beautiful API request builder.
 
 * [OpenAPI Editor](https://editor.swagger.io/) : Best Tool to design OpenAPI spec online.
 
@@ -47,9 +47,9 @@ Documentation, Tools, Framework/KIt/Libs for APIs development in go
 
 * [httpie](https://httpie.org/) : HTTP cli with an intuitive UI.
 
-* [OpenAPI VSCode](https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi) : OpenAPI extension for Visual Studio Code
+* [OpenAPI VSCode](https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi) : OpenAPI extension for Visual Studio Code.
 
-* [PlantUML](https://plantuml.com/fr/) : Generate UseCase, Sequence Diagram 
+* [PlantUML](https://plantuml.com/fr/) : Generate UseCase, Sequence Diagram.
 
 
 ## Frameworks / kits :
@@ -64,20 +64,20 @@ Documentation, Tools, Framework/KIt/Libs for APIs development in go
 
 * [Go-Kit](https://github.com/go-kit/kit) : A standard library for microservices.
 
-* [Go Micro](https://github.com/micro/go-micro) : https://github.com/micro/go-micro
+* [Go Micro](https://github.com/micro/go-micro) : The Go Micro services development framework.
 
 * [Gin](https://gin-gonic.com/) : Web Framework / API for Golang.
 
-* [Validator](https://github.com/go-playground/validator) : Go Struct and Field validation
+* [Validator](https://github.com/go-playground/validator) : Go Struct and Field validation.
 
 ### Test
 
-* [Testify](https://github.com/stretchr/testify) : Testify - Thou Shalt Write Tests
+* [Testify](https://github.com/stretchr/testify) : Testify - Thou Shalt Write Tests.
 
 
 ## Docker :
 
-* [Docker](https://docs.docker.com/) : Docker Documentation
+* [Docker](https://docs.docker.com/) : Docker Documentation.
 
-* [Docker Compose](https://docs.docker.com/compose/) :  Docker Compose Documentation
+* [Docker Compose](https://docs.docker.com/compose/) :  Docker Compose Documentation.
 
