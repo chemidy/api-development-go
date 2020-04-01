@@ -74,6 +74,8 @@ Documentation, Tools, Framework/KIt/Libs for APIs development in go.
 
 * [Testify](https://github.com/stretchr/testify) : Testify - Thou Shalt Write Tests.
 
+* [Go Leak](https://github.com/uber-go/goleak) : Goroutine leak detector to help avoid Goroutine leaks.
+
 
 ## Docker :
 
