@@ -57,6 +57,12 @@ Documentation, Tools, Framework/KIt/Libs for APIs development in go.
 
 ## Go Frameworks / Kits / Resources :
 
+### Documentation :
+
+* [OWASP Go Secure Coding Practices](https://github.com/OWASP/Go-SCP) : Go programming language secure coding practices guide.
+
+* [golang-tls](https://github.com/denji/golang-tls) : Simple Golang HTTPS/TLS Examples + Perfect SSL Labs Score with Go.
+
 ### SQL :
 
 * [Gorm](https://gorm.io/) : The fantastic ORM library for Golang.
