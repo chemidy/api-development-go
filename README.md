@@ -1,4 +1,4 @@
-# api-development-go
+# APIs development in go
 Documentation, Tools, Framework/KIt/Libs for APIs development in go.
 
 
@@ -37,6 +37,10 @@ Documentation, Tools, Framework/KIt/Libs for APIs development in go.
 
 ## Tools API :
 
+* [httpie](https://httpie.org/) : HTTP cli with an intuitive UI.
+
+* [Insomnia](https://github.com/Kong/insomnia) : Cross-platform HTTP and GraphQL Client.
+
 * [Postman](https://www.postman.com/) : Best Tool to test APIs (REST + GRAPHQL).
 
 * [Postwoman](https://github.com/liyasthomas/postwoman) : A free, fast and beautiful API request builder.
@@ -45,14 +49,13 @@ Documentation, Tools, Framework/KIt/Libs for APIs development in go.
 
 * [OpenAPI ReDoc UI](https://swagger.io/blog/api-development/redoc-openapi-powered-documentation/) : Best Tool to visualize OpenAPI docs.
 
-* [httpie](https://httpie.org/) : HTTP cli with an intuitive UI.
 
 * [OpenAPI VSCode](https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi) : OpenAPI extension for Visual Studio Code.
 
 * [PlantUML](https://plantuml.com/fr/) : Generate UseCase, Sequence Diagram.
 
 
-## Frameworks / kits :
+## Go Frameworks / Kits / Resources :
 
 ### SQL :
 
@@ -60,7 +63,13 @@ Documentation, Tools, Framework/KIt/Libs for APIs development in go.
 
 * [sqlmock](https://github.com/DATA-DOG/go-sqlmock) : Sql driver mock for Golang.
 
-### Web :
+### Web Frameworks :
+
+* [Beego](https://github.com/astaxie/beego) : Beego is used for rapid development of RESTful APIs, web apps and backend services in Go.
+
+* [Buffalo](https://github.com/gobuffalo/buffalo) : Rapid Web Development w/ Go.
+
+* [Echo](https://github.com/labstack/echo) : High performance, minimalist Go web framework.
 
 * [Go-Kit](https://github.com/go-kit/kit) : A standard library for microservices.
 
@@ -68,9 +77,13 @@ Documentation, Tools, Framework/KIt/Libs for APIs development in go.
 
 * [Gin](https://gin-gonic.com/) : Web Framework / API for Golang.
 
+* [Cors](https://github.com/rs/cors) : Go net/http configurable handler to handle CORS requests.
+
 * [Validator](https://github.com/go-playground/validator) : Go Struct and Field validation.
 
 ### Test
+
+* [Ginkgo](https://github.com/onsi/ginkgo/) : BDD Testing Framework for Go.
 
 * [Testify](https://github.com/stretchr/testify) : Testify - Thou Shalt Write Tests.
 
