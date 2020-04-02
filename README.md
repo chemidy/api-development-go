@@ -12,7 +12,7 @@ Documentation, Tools, Framework/KIt/Libs for APIs development in go.
 
 * [Paypal API Style Guide](https://github.com/paypal/api-standards/blob/master/api-style-guide.md) : API Design Guidelines.
 
-* [API Security Checlist](https://github.com/shieldfy/API-Security-Checklist) : Checklist of the most important security countermeasures.
+* [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) : Checklist of the most important security countermeasures.
 
 * [APIsecurity](https://apisecurity.io/) : API Security Articles, News, Vulnerabilities & Best Practices.
 
@@ -53,6 +53,14 @@ Documentation, Tools, Framework/KIt/Libs for APIs development in go.
 * [OpenAPI VSCode](https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi) : OpenAPI extension for Visual Studio Code.
 
 * [PlantUML](https://plantuml.com/fr/) : Generate UseCase, Sequence Diagram.
+
+## APIs traces/metrics 
+
+* [OpenTelemetry](https://opentelemetry.io/) : OpenTelemetry provides a single set of APIs, libraries, agents, and collector services to capture distributed traces and metrics from your application.
+
+* [OpenCensus](https://opencensus.io/) : OpenCensus is a set of libraries for various languages that allow you to collect application metrics and distributed traces. OpenCensus and OpenTracing have merged to form OpenTelemetry, which serves as the next major version of OpenCensus and OpenTracing.
+
+* [Jaeger](https://www.jaegertracing.io/) : Jaeger: open source, end-to-end distributed tracing.
 
 
 ## Go Frameworks / Kits / Resources :
