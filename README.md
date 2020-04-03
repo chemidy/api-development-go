@@ -18,6 +18,16 @@ Documentation, Tools, Framework/KIt/Libs for APIs development in go.
 
 * [API Evangelist](http://apievangelist.com/) : API Evangelist is a site dedicated to the technology, business, and politics of APIs.
 
+## APIs Design Diagrams :
+
+* [aws-icons-for-plantuml](https://github.com/awslabs/aws-icons-for-plantuml) : PlantUML sprites, macros, and other includes for Amazon Web Services services and resources.
+
+* [plantuml](https://plantuml.com/) : PlantUML is a component that allows to quickly write diagrams.
+
+* [The C4 model](https://c4model.com/) : The C4 model for visualising software architecture.
+
+* [C4 PlantUML](https://github.com/RicardoNiepel/C4-PlantUML): C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures.
+
 ## APIs specification
 
 ### REST
