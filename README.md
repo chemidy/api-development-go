@@ -39,11 +39,14 @@ Documentation, Tools, Framework/KIt/Libs for APIs development in go.
 
 * [GraphQL](https://graphql.org/) : A query language for your API.
 
-### Grpc
+### gRPC
 
 * [gRPC](https://grpc.io/) : A high-performance, open source universal RPC framework.
 
 * [Protocol Buffers](https://github.com/protocolbuffers/protobuf) : Protocol Buffers - Google's data interchange format.
+
+* [vscode-proto3](https://github.com/zxh0/vscode-proto3) : vscode extension for proto3.
+
 
 ## Tools API :
 
@@ -104,6 +107,12 @@ Documentation, Tools, Framework/KIt/Libs for APIs development in go.
 * [Cors](https://github.com/rs/cors) : Go net/http configurable handler to handle CORS requests.
 
 * [Validator](https://github.com/go-playground/validator) : Go Struct and Field validation.
+
+### gRPC
+
+* [protoc-gen-validate](https://github.com/envoyproxy/protoc-gen-validate) : protoc plugin to generate polyglot message validators.
+
+* [go-grpc-middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) : Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
 
 ### Test
 
