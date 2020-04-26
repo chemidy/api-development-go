@@ -6,6 +6,10 @@ Documentation, Tools, Framework/KIt/Libs for APIs development in go.
 
 * [Google API Design Guide](https://cloud.google.com/apis/design) : How to write API.
 
+* [Google API Improvement Proposals](https://aip.dev) : Focused design documents for flexible API development.
+
+* [Google linter for APIs](https://github.com/googleapis/api-linter) : A linter for APIs defined in protocol buffers.
+
 * [Microsoft API Design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design) : Web API design.
 
 * [Microsoft API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md) :  API Guidelines.
