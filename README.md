@@ -27,6 +27,8 @@ Documentation, Tools, Framework/KIt/Libs for APIs development in go.
 
 ## APIs Design Diagrams :
 
+* [go-diagrams](https://github.com/blushft/go-diagrams) : Go-Diagrams is a loose port of diagrams.
+
 * [aws-icons-for-plantuml](https://github.com/awslabs/aws-icons-for-plantuml) : PlantUML sprites, macros, and other includes for Amazon Web Services services and resources.
 
 * [plantuml](https://plantuml.com/) : PlantUML is a component that allows to quickly write diagrams.
