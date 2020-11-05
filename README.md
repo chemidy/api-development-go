@@ -1,7 +1,7 @@
 # APIs development in go
 Documentation, Tools, Framework/KIt/Libs for APIs development in go.
 
-## Go Developer Roadmap
+## Go Developer Roadmap :
 
 * [Go Developer Roadmap](https://github.com/Alikhll/golang-developer-roadmap) : How to become a senior Go Developer.
 
@@ -37,7 +37,7 @@ Documentation, Tools, Framework/KIt/Libs for APIs development in go.
 
 * [C4 PlantUML](https://github.com/RicardoNiepel/C4-PlantUML): C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures.
 
-## APIs specification
+## APIs specification :
 
 ### REST
 * [OpenAPIs](https://www.openapis.org/) : The OpenAPI Specification: a broadly adopted industry standard for describing modern APIs.
@@ -125,6 +125,10 @@ Documentation, Tools, Framework/KIt/Libs for APIs development in go.
 
 * [go-grpc-middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) : Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
 
+### Security
+
+* [gosec](https://github.com/securego/gosec) : Golang security checker.
+
 ### Test
 
 * [Ginkgo](https://github.com/onsi/ginkgo/) : BDD Testing Framework for Go.
@@ -133,7 +137,6 @@ Documentation, Tools, Framework/KIt/Libs for APIs development in go.
 
 * [Go Leak](https://github.com/uber-go/goleak) : Goroutine leak detector to help avoid Goroutine leaks.
 
-* [testcontainers-go](https://github.com/testcontainers/testcontainers-go) : Testcontainers is a Golang library that providing a friendly API to run Docker container.
 
 ## Container :
 
@@ -142,3 +145,5 @@ Documentation, Tools, Framework/KIt/Libs for APIs development in go.
 * [Docker Compose](https://docs.docker.com/compose/) :  Docker Compose Documentation.
 
 * [Container Structure Tests](https://github.com/GoogleContainerTools/container-structure-test) : A powerful framework to validate structure of a container image.
+
+* [testcontainers-go](https://github.com/testcontainers/testcontainers-go) : Testcontainers is a Golang library that providing a friendly API to run Docker container.
