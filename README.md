@@ -130,9 +130,10 @@ Documentation, Tools, Framework/KIt/Libs for APIs development in go.
 * [Go Leak](https://github.com/uber-go/goleak) : Goroutine leak detector to help avoid Goroutine leaks.
 
 
-## Docker :
+## Container :
 
 * [Docker](https://docs.docker.com/) : Docker Documentation.
 
 * [Docker Compose](https://docs.docker.com/compose/) :  Docker Compose Documentation.
 
+* [Container Structure Tests](https://github.com/GoogleContainerTools/container-structure-test) : A powerful framework to validate structure of a container image.
