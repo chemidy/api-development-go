@@ -2,6 +2,25 @@
 Documentation, Tools, Frameworks/Kitq/Libs for APIs development in go.
 
 
+
+## Monolith VS MicroService  :
+
+ * https://threedots.tech/post/microservices-or-monolith-its-detail/
+ * https://martinfowler.com/bliki/MonolithFirst.html
+
+```
+Almost all the cases where I’ve heard of a system that was built as a microservice system from scratch, 
+it has ended up in serious trouble.
+
+Almost all the successful microservice stories have started with a monolith that got too big and was broken up.
+
+```
+ 
+## Auth
+ * https://threedots.tech/post/firebase-cloud-run-authentication/
+
+
+
 ## APIs Design :
 
 ### Guides :
@@ -84,6 +103,8 @@ Documentation, Tools, Frameworks/Kitq/Libs for APIs development in go.
 * [OWASP Go Secure Coding Practices](https://github.com/OWASP/Go-SCP) : Go programming language secure coding practices guide.
 
 * [golang-tls](https://github.com/denji/golang-tls) : Simple Golang HTTPS/TLS Examples + Perfect SSL Labs Score with Go.
+
+### AUTH :
 
 ### SQL :
 
