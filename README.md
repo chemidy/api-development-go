@@ -18,6 +18,7 @@ Almost all the successful microservice stories have started with a monolith that
  
 ## Auth
  * https://threedots.tech/post/firebase-cloud-run-authentication/
+ * [casbin](https://casbin.org/) : An authorization library that supports access control models like ACL, RBAC, ABAC
 
 
 
@@ -76,9 +77,9 @@ Almost all the successful microservice stories have started with a monolith that
 * [Postman](https://www.postman.com/) : Best Tool to test APIs (REST + GRAPHQL).
 * [Postwoman](https://github.com/liyasthomas/postwoman) : A free, fast and beautiful API request builder.
 * [OpenAPI Editor](https://editor.swagger.io/) : Best Tool to design OpenAPI spec online.
-* [OpenAPI ReDoc UI](https://swagger.io/blog/api-development/redoc-openapi-powered-documentation/) : Best Tool to visualize OpenAPI docs.
+* [OpenAPI ReDoc UI](https://redoc.ly/redoc/) : Best Tool to visualize OpenAPI docs.
+* [OpenAPI CLI](https://redoc.ly/openapi-cli/) : Validate & bundle OpenAPI definitions, with rich diagnostics..
 * [OpenAPI VSCode](https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi) : OpenAPI extension for Visual Studio Code.
-
 * [PlantUML](https://plantuml.com/fr/) : Generate UseCase, Sequence Diagram.
 
 ## APIs traces/metrics :
@@ -105,11 +106,11 @@ Almost all the successful microservice stories have started with a monolith that
 * [golang-tls](https://github.com/denji/golang-tls) : Simple Golang HTTPS/TLS Examples + Perfect SSL Labs Score with Go.
 
 ### AUTH :
+ * [casbin](https://casbin.org/) : An authorization library that supports access control models like ACL, RBAC, ABAC
 
 ### SQL :
 
 * [Gorm](https://gorm.io/) : The fantastic ORM library for Golang.
-
 * [sqlmock](https://github.com/DATA-DOG/go-sqlmock) : Sql driver mock for Golang.
 
 ### Web Frameworks :
@@ -121,13 +122,15 @@ Almost all the successful microservice stories have started with a monolith that
 * [Go Micro](https://github.com/micro/go-micro) : The Go Micro services development framework.
 * [Gin](https://gin-gonic.com/) : Web Framework / API for Golang.
 * [Cors](https://github.com/rs/cors) : Go net/http configurable handler to handle CORS requests.
-
 * [Validator](https://github.com/go-playground/validator) : Go Struct and Field validation.
+
+### OpenAPI :
+
+* [oapi-codegen](https://github.com/deepmap/oapi-codegen) : Generate Go client and server boilerplate from OpenAPI 3 specifications.
 
 ### gRPC
 
 * [protoc-gen-validate](https://github.com/envoyproxy/protoc-gen-validate) : protoc plugin to generate polyglot message validators.
-
 * [go-grpc-middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) : Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
 
 ### Security
@@ -138,7 +141,6 @@ Almost all the successful microservice stories have started with a monolith that
 
 * [Ginkgo](https://github.com/onsi/ginkgo/) : BDD Testing Framework for Go.
 * [Testify](https://github.com/stretchr/testify) : Testify - Thou Shalt Write Tests.
-
 * [Go Leak](https://github.com/uber-go/goleak) : Goroutine leak detector to help avoid Goroutine leaks.
 
 
